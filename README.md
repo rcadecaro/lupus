@@ -3,7 +3,7 @@
 ![Frame 61](https://github.com/nandowastaken/lupus/assets/79945109/c3928be5-d132-46e2-be95-b943be6520c8)
 
 
-Lupus é uma ferramenta que utiliza a inteligência artificial para analisar a UX/UI de seus designes, indicando suas fraquezas, forças, e como você pode melhorar seu design cada vez mais. Tudo o que você precisa fazer é arrastar seu design em um arquivo jpg ou png, e esperar alguns segundos para que a IA retorne seu feedback.
+Lupus é uma ferramenta que utiliza a inteligência artificial para analisar a UX/UI de seus designs, indicando suas fraquezas, forças, e como você pode melhorar seu design cada vez mais. Tudo o que você precisa fazer é arrastar seu design em um arquivo jpg ou png, e esperar alguns segundos para que a IA possar dar um feedback.
 
 Esse projeto foi desenvolvido para a competição da imersão de IA da Alura, tendo como suas tecnologias: vite, react e a API do Gemini, a inteligência artificial mais poderosa da Google.
 
