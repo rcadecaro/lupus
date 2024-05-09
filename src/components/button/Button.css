@@ -1,0 +1,33 @@
+.Button {
+  width: 300px;
+  height: 80px;
+  border-radius: 4px;
+  background-color: var(--brandWhite);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.Button:hover {
+  background-color: #3a77ff;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  border: none;
+  border-radius: 8px;
+  background-color: var(--brandWhite);
+  display: inline-block;
+  padding: 12px 24px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.custom-file-upload:hover {
+  background-color: #c7c7c7;
+}

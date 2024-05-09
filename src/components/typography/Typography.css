@@ -1,0 +1,57 @@
+.Typography {
+  font-family: "Montserrat", sans-serif;
+}
+
+.H1 {
+  font-weight: 400;
+  font-size: 5rem;
+}
+
+.H2 {
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+
+.Primary {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.Secondary {
+  font-size: 1.25rem;
+  opacity: 0.7;
+}
+
+.white {
+  color: var(--brandWhite);
+}
+
+.blue {
+  color: var(--brandBlue);
+}
+
+.black {
+  color: var(--brandBlack);
+}
+
+.red {
+  color: var(--brandRed);
+}
+
+.yellow {
+  color: var(--brandYellow);
+}
+
+.green {
+  color: var(--brandGreen);
+}
+
+@media only screen and (max-width: 1000px) {
+  .H1 {
+    font-size: 2.5rem;
+  }
+
+  .H2 {
+    font-size: 1.5rem;
+  }
+}
