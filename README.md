@@ -7,7 +7,9 @@ Lupus é uma ferramenta que utiliza a inteligência artificial para analisar a U
 
 ## Finalidade
 
-Esse projeto foi criado para a competição da imersão com IA da Alura, sendo desenvolvido com react e a API da Gemini, a inteligência artificial mais poderosa da Google. A ideia de criar um website que analisa designs, como o Pagespeeds analisa o desempenho de uma página web, já vem pairando sobre a minha mente por um tempo e estava no meu backlog. Fiquei bastante feliz em ver que era algo possível de ser feito com a Gemini API durante meus testes no início da imersão, e decidi trazer essa ideia à vida. 
+Esse projeto foi criado para a competição da imersão com IA da Alura, sendo desenvolvido com react e a API da Gemini, a inteligência artificial mais poderosa da Google. A ideia de criar um website que analisa designs, como o Pagespeeds analisa o desempenho de uma página web, já vem pairando sobre a minha mente por um tempo e estava no meu backlog. Fiquei bastante feliz em ver que era algo possível de ser feito com a Gemini API durante meus testes no início da imersão, e decidi trazer essa ideia à vida para a competição.
+
+Me pergunto se é algo que as pessoas realmente precisam em suas vidas, bem, como o Eric Ries fala em seu livro "A Startup Enxuta", tá na hora de pegar um pouco de aprendizagem validada! Dito isto, quaisquer feedback que você tenha para me dar seja bom ou ruim, por favor, encaminhe para o meu e-mail: fernandojorge.cavalcantegomes@gmail.com. 
 
 
 ## Como rodar
